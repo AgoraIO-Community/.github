@@ -6,7 +6,7 @@
   </a>
 </p>
 
-To find out about our Low-code UIKits, check out our [UIKit Wiki Page](https://github.com/AgoraIO-Community/.github/wiki/Agora-UIKit).
+To find out about our Low-code UIKits, check out our [UIKit Wiki Page](https://github.com/AgoraIO-Community/.github/wiki/Agora-Video-UIKit).
 
 This community page is where we put all our exciting example projects, and open source products like Agora UIKit. Scroll down or click the [Repositories](https://github.com/orgs/AgoraIO-Community/repositories) tab to dive in.
 
