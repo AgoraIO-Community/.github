@@ -10,4 +10,4 @@ To find out about our Low-code UIKits, check out our [UIKit Wiki Page](https://g
 
 This community page is where we put all our exciting example projects, and open source products like Agora UIKit. Scroll down or click the [Repositories](https://github.com/orgs/AgoraIO-Community/repositories) tab to dive in.
 
-You may also want to check out the [Developer Resources](https://www.agora.io/en/developer-resources/) page for links to our blogs, tips for scaling your Agora application, and more.
+You may also want to check out our new [Agora Docs](https://docs.agora.io/en/), to see all the products we have available and the best ways to use them.
