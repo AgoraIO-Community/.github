@@ -10,9 +10,8 @@ Hello! You've reached Agora's Community GitHub, a hub for open-source projects, 
 
 ### What You’ll Find Here
 Explore a wide variety of community-driven projects and open-source tools that make it easier to integrate Agora’s real-time video, voice, and messaging into your applications. You’ll find:
-- **Example Projects**: See Agora in action with real-world use cases.
-- **Agora UIKit**: Simplify the integration of video calling and streaming.
-- **Other Open-Source Tools**: Utilities, plugins, and more to help streamline your development process.
+- **Example Projects**: See Agora in action with real-world use cases, hack-a-thon submissions, developer demos, and more.
+- **Other Open-Source Tools**: Agora's teams are constantly building and releasing open-source utilities, plugins, and more to help streamline your development process.
 
 Check out the [Repositories](https://github.com/orgs/AgoraIO-Community/repositories) tab to start exploring!
 
