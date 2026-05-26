@@ -1,8 +1,8 @@
 ## Welcome to Agora.io Community GitHub! 👋
 
 <p align="center">
-  <a href="https://www.agora.io/en/join-slack/">
-    <img src="https://img.shields.io/badge/slack-@RTE%20Dev-blue.svg?logo=slack" alt="Join our Slack Community">
+  <a href="https://discord.gg/uhkxjDpJsN">
+    <img src="https://img.shields.io/badge/Discord-@Agora-blue.svg?logo=discord" alt="Join our Discord Community">
   </a>
 </p>
 
