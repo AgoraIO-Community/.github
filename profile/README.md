@@ -18,6 +18,6 @@ Check out the [Repositories](https://github.com/orgs/AgoraIO-Community/repositor
 ### Additional Resources
 For more comprehensive guides, visit our [Agora Documentation](https://docs.agora.io/en/) to learn about all the products Agora has to offer and how to implement them effectively.
 
-Feel free to join our [Slack Community](https://www.agora.io/en/join-slack/) for support, discussions, and to connect with other developers.
+Feel free to join our [Discord Community](https://discord.gg/uhkxjDpJsN) for support, discussions, and to connect with other developers.
 
 Thanks for being part of our community! 🚀
